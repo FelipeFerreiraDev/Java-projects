@@ -1,0 +1,9 @@
+package fundamentos;
+import java.util.List;
+
+public class DataStructure {
+	public static void main(String[] args) {
+		// Lista
+		List<String> nomes = new ArrayList<>();
+	}
+}
