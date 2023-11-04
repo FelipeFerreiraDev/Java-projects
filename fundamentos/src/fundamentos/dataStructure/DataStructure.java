@@ -1,4 +1,4 @@
-package fundamentos;
+package fundamentos.dataStructure;
 import java.util.ArrayList;
 import java.util.List;
 
