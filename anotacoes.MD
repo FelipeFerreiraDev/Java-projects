@@ -18,3 +18,11 @@ Atributos -> Características do objeto: cor, modelo, marca, ...
 Métodos -> Ações do objeto: ligar, desligar, acelerar, frear, ...
 
 Instância -> Um objeto criado a partir de uma classe, cria uma representação do objeto na memória.
+
+## Excessões
+Excessões verificadas -> Excessões que são verificadas em tempo de compilação, ou seja, o compilador verifica se o código está correto, se não estiver, ele não compila.
+
+Excessões não verificadas -> Excessões que não são verificadas em tempo de compilação, ou seja, o compilador não verifica se o código está correto, se não estiver, ele compila, mas em tempo de execução, o programa pode lançar uma excessão.
+
+## Wrapper Classes
+São classes que representam os tipos primitivos, elas são utilizadas para converter um tipo primitivo em um objeto, e vice-versa.

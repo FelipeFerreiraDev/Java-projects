@@ -16,7 +16,6 @@ public class TestePessoa {
 		pessoa2.setIdade(18);
 		pessoa2.setMatricula("1232131");
 		
-		System.out.println(pessoa.getNome());
-		System.out.println(pessoa2.getNome());
+		System.out.println(pessoa2.imprimeDados());
 	}
 }
