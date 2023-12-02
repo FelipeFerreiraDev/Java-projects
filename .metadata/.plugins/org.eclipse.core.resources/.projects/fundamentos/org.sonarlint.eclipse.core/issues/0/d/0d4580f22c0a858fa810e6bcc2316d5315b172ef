@@ -1,7 +1,0 @@
-
-m
-java:S1854"9Remove this useless assignment to local variable "nomes".b 73f523b2aa70e3126cfa8809c2e07acch
-^
-java:S1481"*Remove this unused "nomes" local variable.b 0b0986d09e6f826d708fb909c4409518h
-”
-java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").8Çó£Õ¹1b d5f2906a21464c7d6eff98d5a42be15bh
